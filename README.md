@@ -1,4 +1,4 @@
-# 🌸 WorkoutAPI
+# WorkoutAPI
 
 Oi! Essa é a **WorkoutAPI**, para você gerenciar atletas, categorias e centros de treinamento de forma prática e organizada.
 
